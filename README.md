@@ -19,7 +19,7 @@ El conjunto de datos utilizado en este análisis, titulado **Hotel booking deman
 > **Nota**: El dataset completo se puede encontrar adjunto en este repositorio o puedes acceder a la página fuente adjunta.
 Puedes ver la descripción del dataset [Dataset original](data) [Página fuente]((https://www.sciencedirect.com/science/article/pii/S2352340918315191)).
 
- 
+
 ## Licencia
 
 Este análisis está bajo la licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Esto significa que eres libre de compartir y adaptar el material siempre que se atribuya adecuadamente, no se use con fines comerciales, y cualquier obra derivada se comparta bajo la misma licencia.

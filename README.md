@@ -19,6 +19,9 @@ El conjunto de datos utilizado en este análisis, titulado **Hotel booking deman
 > **Nota**: El dataset completo se puede encontrar adjunto en este repositorio o puedes acceder a la página fuente adjunta.
 Puedes ver la descripción del dataset [Página fuente](https://www.sciencedirect.com/science/article/pii/S2352340918315191) [Dataset original](data).
 
+
+## Conclusiones
+
  
 ## Licencia
 

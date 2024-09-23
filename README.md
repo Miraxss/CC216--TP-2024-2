@@ -21,6 +21,11 @@ Puedes ver la descripción del dataset [Página fuente](https://www.sciencedirec
 
 
 ## Conclusiones
+- El 66,45% de las reservas se hacen en hoteles de tipo "City", sin embargo, la duración promedio de las estancias es mayor en los hoteles de tipo "Resort”. Esto tiene sentido por el tipo de experiencia que cada uno provee. Por un lado, los hoteles urbanos proveen una experiencia hecha para viajeros o estancias cortas, mientras que los resorts ofrecen una experiencia con actividades para vacaciones.
+- La información de la base de datos utilizó los hoteles de varias ciudades de Europa y Estados Unidos como muestra. En esta ciudad el verano y las vacaciones ocurren en los meses de Julio y Agosto, por ello, la cantidad de reservas de hoteles aumenta en estas épocas.
+- Como se puede observar en el segundo gráfico, de acuerdo a la base de datos, la demanda de reserva de hoteles aumentó en el año 2016, y se mantuvo baja en los años 2015 y 2017, no obstante, esta información no es muy relevante para realizar un análisis sobre la demanda a largo plazo ya que los años 2015 y 2017 no tienen información para todo el año. El año 2015 solo tiene información a partir del mes de Julio y el año 2017 solo tiene información hasta el mes de Agosto. Esto también ayuda a explicar porque el año 2017 tiene más reservas que el año 2015, pues se tiene información de 2 meses más.
+- El gráfico que muestra la cantidad de cancelaciones de reservas muestra que los meses que tienen más cancelaciones son los meses que tienen mayor cantidad de demandas. Esto se debe a la relación que tienen estos datos entre sí.
+- En conclusión, el análisis de datos sobre el sector de hoteles es útil para entender el comportamiento de las personas que se hospedan. Esto puede ser útil para realizar analítica del negocio y crear estrategias para encontrar formas de optimización del sector.
 
  
 ## Licencia
